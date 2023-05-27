@@ -1,4 +1,4 @@
-
+#!/bin/bash
 amiran@DESKTOP-M1RAP7G MINGW64 ~
 $ git --help
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
